@@ -2,7 +2,7 @@
 Simple test to receive Serial Data from Node instance.
 */
 void setup() {
-  Serial.begin(38400);      // open the serial port at 9600 bps:    
+  Serial.begin(38400);
 }
 
 int incoming = 0;
